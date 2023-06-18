@@ -99,6 +99,40 @@ const Home = () => {
             <p>The top 7 marketing trends for October 2022</p>
         </div>
     </div>
+    <hr id="lin1"/>
+    <div className="section-2-container">
+    <div className="section-2-column1">
+      <h1>News</h1>
+      <RxDoubleArrowRight id="ic2" />
+      </div>
+        <div className="section-2-column">
+            <img src="https://images.indianexpress.com/2023/06/moeen-ali.jpg?resize=450,250" alt=""/>
+            <h3>Sports</h3>
+            <p>Ashes: Moeen Ali fined 25% of match fee for using drying agent</p>
+        </div>
+        <div className="section-2-column">
+            <img src="https://images.indianexpress.com/2023/06/iPadOS-17-1-1.jpg?w=640"alt=""/>
+            <h3>Technology</h3>
+            <p>iPadOS 17 gets improved Stage Manager and interactive widgets</p>
+        </div>
+    </div>
+    <hr id="lin1"/>
+    <div className="section-2-container">
+    <div className="section-2-column1">
+      <h1>Jobs</h1>
+      <RxDoubleArrowRight id="ic2" />
+      </div>
+        <div className="section-2-column">
+            <img src="https://wallpaperaccess.com/full/6578144.jpg" alt=""/>
+            <h3>Tata Group</h3>
+            <p>Regional Sales Manager-Supply Chain-Sales-Delhi-Videocon Towers-MM</p>
+        </div>
+        <div className="section-2-column">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/CoreLogic_logo.svg/1200px-CoreLogic_logo.svg.png"alt=""/>
+            <h3>CoreLogic</h3>
+            <p>Senior Cloud Engineer</p>
+        </div>
+    </div>
       <footer>
         <div className="contain">
           <ul className="lst">

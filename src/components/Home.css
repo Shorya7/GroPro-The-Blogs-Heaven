@@ -171,6 +171,11 @@ nav ul button:hover{
     font-size: 150px;
     color: rgb(10 27 63);
 }
+#ic2{
+    margin-left: 10px;
+    font-size: 75px;
+    color: rgb(10 27 63);
+}
 .section-2-container .section-2-column{
     width: 400px;
     height: 470px;
